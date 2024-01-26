@@ -1,0 +1,51 @@
+export const SUPPORTED_LANGUAGES = {
+  en: 'English',
+  fr: 'French',
+  de: 'German',
+  es: 'Spanish',
+  it: 'Italian',
+  pt: 'Portuguese',
+  ru: 'Russian',
+  tr: 'Turkish',
+  zh: 'Chinese',
+  ja: 'Japanese',
+  ko: 'Korean',
+  ar: 'Arabic',
+  hi: 'Hindi',
+  id: 'Indonesian',
+  ms: 'Malay',
+  th: 'Thai',
+  vi: 'Vietnamese',
+  cy: 'Welsh',
+  el: 'Greek',
+  da: 'Danish',
+  nl: 'Dutch',
+  sv: 'Swedish'
+}
+
+export const VOICE_FOR_LANGUAGE = {
+  en: 'en-US',
+  fr: 'fr-FR',
+  de: 'de-DE',
+  es: 'es-ES',
+  it: 'it-IT',
+  pt: 'pt-PT',
+  ru: 'ru-RU',
+  tr: 'tr-TR',
+  zh: 'zh-CN',
+  ja: 'ja-JP',
+  ko: 'ko-KR',
+  ar: 'ar-EG',
+  hi: 'hi-IN',
+  id: 'id-ID',
+  ms: 'ms-MY',
+  th: 'th-TH',
+  vi: 'vi-VN',
+  cy: 'cy-GB',
+  el: 'el-GR',
+  da: 'da-DK',
+  nl: 'nl-NL',
+  sv: 'sv-SE'
+}
+
+export const AUTO_LANGUAGE = 'auto'
